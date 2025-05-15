@@ -72,6 +72,13 @@ npm install framer-motion lucide-react react react-dom
     pnpm build
     ```
 
+## Demo
+
+![Link of the application](https://todo-app-three-tau-18.vercel.app/)
+
+
+
+
 ## Screenshots
 
 Here are some screenshots of the application:
