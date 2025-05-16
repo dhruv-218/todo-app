@@ -88,6 +88,9 @@ npm install framer-motion lucide-react react react-dom
 
 ![Link of the application]: https://todo-app-three-tau-18.vercel.app
 
+## App structure diagram
+
+![iamge](https://github.com/dhruv-218/todo-app/blob/main/diagram.png)
 
 
 
