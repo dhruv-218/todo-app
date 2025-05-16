@@ -84,9 +84,8 @@ npm install framer-motion lucide-react react react-dom
 Here are some screenshots of the application:
 
 **Initial State:**
-![Initial State](https://github.com/user-attachments/assets/a9363343-7135-4141-985d-47139801617d)
 
 **Tasks Added and Sorted:**
-![Tasks Added and Sorted](https://github.com/user-attachments/assets/a9363343-7135-4141-985d-47139801617d)
+
 
 *(Note: Replace the image URLs above with the actual URLs of your screenshots, e.g., hosted on GitHub or another service.)*
