@@ -1,6 +1,18 @@
 # React To-Do List Application
 
-This is a simple and interactive To-Do List application built with React, Vite, and Tailwind CSS, featuring animations powered by Framer Motion.
+This is a interactive To-Do List application built with React, Vite, and Tailwind CSS, featuring priority of task and sort them also it's animations powered by Framer Motion.
+
+## Preview
+
+Here are some screenshots of the application:
+
+**Initial State:**
+![iamge](https://github.com/dhruv-218/todo-app/blob/main/img.jpeg)
+
+**Tasks Added and Sorted:**
+
+![iamge](https://github.com/dhruv-218/todo-app/blob/main/img(1).jpeg)
+![iamge](https://github.com/dhruv-218/todo-app/blob/main/img%20(2).jpeg)
 
 ## Features
 
@@ -79,13 +91,4 @@ npm install framer-motion lucide-react react react-dom
 
 
 
-## Screenshots
 
-Here are some screenshots of the application:
-
-**Initial State:**
-
-**Tasks Added and Sorted:**
-
-
-*(Note: Replace the image URLs above with the actual URLs of your screenshots, e.g., hosted on GitHub or another service.)*
