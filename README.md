@@ -54,7 +54,7 @@ npm install framer-motion lucide-react react react-dom
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/dhruv-218/todo-app>
     cd todo-app
     ```
 2.  Install dependencies:
